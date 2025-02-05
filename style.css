@@ -164,6 +164,15 @@ img{
     }
  }
 
+
+ @media (max-width: 576px){ 
+    .texto-hero-titulo{
+        font-size: 70px;
+        text-align: center;
+        
+    }
+}
+
 #texto-sobre-mim{
     max-width: 1400px;
     padding-right: 100px;
